@@ -21,6 +21,7 @@
 .searchSection select{
     width: 150px;
     text-align: center;
+    cursor: pointer;
 }
 #wrapper input{
     width: 200px;
